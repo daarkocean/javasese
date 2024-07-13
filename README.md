@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/rw3qqpe3x19jehyi?svg=true)](https://ci.appveyor.com/project/daarkocean/javasese)
